@@ -1,7 +1,7 @@
 #!/usr/bin/yarn dev
 import { createQueue, Job } from 'kue';
 
-const BLACKLISTED_NUMBERS = ['4153518780', '4153518781'];
+const BLACKLISTED_NUMBERS = ['5890239014', '5890239015'];
 const queue = createQueue();
 
 /**
